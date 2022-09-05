@@ -1,4 +1,4 @@
-## Olá ! Sou a Tom Kelve, 
+## Bem Vindo (a) , sou Tom Kelve Santos de Medeiros!
 #### Sobre
 <p align="center">Graduando em Engenharia de Software com certificação profissional em Data Science, possuo experiencia profissional como Systems and business analyst, Software Specialist e Analytics Programmer.</p>
 
