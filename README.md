@@ -1,4 +1,13 @@
-## Olá eu sou a Tom Kelve, Software Specialist e Analista de Dados!
+## Olá ! Sou a Tom Kelve, 
+#### Sobre
+<p align="center">Graduando em Engenharia de Software com certificação profissional em Data Science, possuo experiencia profissional como Systems and business analyst, Software Specialist e Analytics Programmer.</p>
+
+<p align="center"> Estou sempre em constante evolução, buscando aperfeiçoamento profissional e otimizando minhas entregas, desenvolvi e melhorei minha capacidade analitica, o qual me permitiu entender melhor os processos de empresas e possuir experiencias sendo responsável por planejar, mapear, criar proposta e executar o projeto.; 
+<p align="center">Responsável no desenvolvimento de automações, aplicativos, portais, chatbot, dashboards ,relatórios, ambientes e banco de dados ; Concepção de protótipo e testes de suporte, desenvolvimento de aplicações end-to-end.; </p>
+<p align="center">Criar documentação para projetos, incluindo desenho, inventário de ativos, diagramas e apresentações, além de documentação do ambiente e implementação para nossas equipes de suporte e futuras implementação. </p>
+
+
+
 <div align="center">
   <a href="https://github.com/TmKelve">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TomKelve&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -33,14 +42,33 @@
    
      <img align="center" alt="Rafa-Python" height="30" width="100" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
 
+## Possuo Certificações
+#### ✔ Business Intelligence (BI) - FIAP
+#### ✔ Market research and consumer behavior - IE Business School
+#### ✔ Business Strategies - Fundação Bradesco
+#### ✔ Power BI Advanced - Linkedin Learning
+#### ✔ Power Apps Basics -Linkedin Learning
+#### ✔ Excel Advanced - Fundação Bradesco
+#### ✔ Python - FIAP
+#### ✔ Power Automate Desktop - Microsoft Learning
+#### ✔ UX Design - FIAP 
+#### ✔ FIGMA - CursaE
+#### ✔ HTML5 - DIO
+#### ✔ CSS3 - DIO
+#### ✔ Scrum Fundamentals - ScrumStudy
+#### ✔ Six Sigma Yellow Belt - 6SigmaStudy
+#### ✔ CRISP-DM - Coursera
+#### ✔ Liderança Lean - Fundação Bradesco
+
 </div>
-##
+
 <div> 
- 
+
+ ## Contatos
  
  <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/tom-kelve-3b7a8a174/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:tomkelve2019@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/tom-kelve/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
