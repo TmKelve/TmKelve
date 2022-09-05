@@ -3,7 +3,8 @@
 <p align="center">Graduando em Engenharia de Software com certificação profissional em Data Science, possuo experiencia profissional como Systems and business analyst, Software Specialist e Analytics Programmer.</p>
 
 <p align="center"> Estou sempre em constante evolução, buscando aperfeiçoamento profissional e otimizando minhas entregas, desenvolvi e melhorei minha capacidade analitica, o qual me permitiu entender melhor os processos de empresas e possuir experiencias sendo responsável por planejar, mapear, criar proposta e executar o projeto.; 
-<p align="center">Responsável no desenvolvimento de automações, aplicativos, portais, chatbot, dashboards ,relatórios, ambientes e banco de dados ; Concepção de protótipo e testes de suporte, desenvolvimento de aplicações end-to-end.; </p>
+<p align="center">Responsável no desenvolvimento de automações, aplicativos, portais, chatbot, dashboards ,relatórios, ambientes e banco de dados ;  </p>
+<p align="center">Concepção de protótipo e testes de suporte, desenvolvimento de aplicações end-to-end.; </p>
 <p align="center">Criar documentação para projetos, incluindo desenho, inventário de ativos, diagramas e apresentações, além de documentação do ambiente e implementação para nossas equipes de suporte e futuras implementação. </p>
 
 
@@ -36,11 +37,8 @@
    <img align="center" alt="Rafa-Python" height="30" width="30" src="https://img.icons8.com/office/344/microsoft-power-apps.png">
  
 ####  🎲 Banco de Dados : 
-    <img align="center" alt="Rafa-Python" height="30" width="100" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
-    
-    <img align="center" alt="Rafa-Python" height="30" width="100" src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
-   
-     <img align="center" alt="Rafa-Python" height="30" width="100" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
+  #### <p align="center"> ✔ Oracle ✔ SQL Server ✔ MySQL </p>
+#### <p align="center"> ✔ PostegresSQL ✔ MongoDB ✔ DataVerse </p>
 
 ## Possuo Certificações
 #### ✔ Business Intelligence (BI) - FIAP
@@ -59,7 +57,18 @@
 #### ✔ Six Sigma Yellow Belt - 6SigmaStudy
 #### ✔ CRISP-DM - Coursera
 #### ✔ Liderança Lean - Fundação Bradesco
-
+#### ✔ Mineração de dados - LinkedIn Learn
+#### ✔ BI Developer - Data Science Academy
+#### ✔ Python - Fundação Bradesco
+#### ✔ Data science tools - IBM
+#### ✔ Python for Data Science and AI - IBM
+#### ✔ Visualización de Datos con Python - IBM
+#### ✔ Metodología de la ciencia de datos - IBM
+#### ✔ Herramientas para la ciencia de datos - IBM
+#### ✔ Bases de datos y SQL para ciencia de datos - IBM
+#### ✔ Análisis de datos con Python - IBM
+#### ✔ Aprendizaje Automático con Python - IBM
+  
 </div>
 
 <div> 
