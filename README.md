@@ -41,25 +41,15 @@
 #### <p align="center"> ✔ PostegresSQL ✔ MongoDB ✔ DataVerse </p>
 
 ## Possuo Certificações
-#### ✔ Business Intelligence (BI) - FIAP
-#### ✔ Market research and consumer behavior - IE Business School
-#### ✔ Business Strategies - Fundação Bradesco
-#### ✔ Power BI Advanced - Linkedin Learning
+
 #### ✔ Power Apps Basics -Linkedin Learning
-#### ✔ Excel Advanced - Fundação Bradesco
 #### ✔ Python - FIAP
-#### ✔ Power Automate Desktop - Microsoft Learning
+#### ✔ Power Automate - Microsoft Learning
 #### ✔ UX Design - FIAP 
 #### ✔ FIGMA - CursaE
 #### ✔ HTML5 - DIO
 #### ✔ CSS3 - DIO
-#### ✔ Scrum Fundamentals - ScrumStudy
-#### ✔ Six Sigma Yellow Belt - 6SigmaStudy
-#### ✔ CRISP-DM - Coursera
-#### ✔ Liderança Lean - Fundação Bradesco
 #### ✔ Mineração de dados - LinkedIn Learn
-#### ✔ BI Developer - Data Science Academy
-#### ✔ Python - Fundação Bradesco
 #### ✔ Data science tools - IBM
 #### ✔ Python for Data Science and AI - IBM
 #### ✔ Visualización de Datos con Python - IBM
