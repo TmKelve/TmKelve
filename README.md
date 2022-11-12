@@ -2,10 +2,12 @@
 #### Sobre
 <p align="center">Graduando em Engenharia de Software com certificação profissional em Data Science, possuo experiencia profissional como Systems and business analyst, Software Specialist e Analytics Programmer.</p>
 
-<p align="center"> Estou sempre em constante evolução, buscando aperfeiçoamento profissional e otimizando minhas entregas, desenvolvi e melhorei minha capacidade analitica, o qual me permitiu entender melhor os processos de empresas e possuir experiencias sendo responsável por planejar, mapear, criar proposta e executar o projeto.; 
-<p align="center">Responsável no desenvolvimento de automações, aplicativos, portais, chatbot, dashboards ,relatórios, ambientes e banco de dados ;  </p>
+<p align="center"> Estou sempre em constante evolução, acompanhando as atualizações no mercado tecnológico e buscando manter constante evolução e aperfeiçoamento pessoal e profissional.
+<p align="center">Atualmente executo as atividades :</p>
+<p align="center">Responsavel por planejar, mapear, criar proposta e executar o projeto ; </p>
+<p align="center">Desenvolver automações, aplicativos, portais, chatbot, dashboards ,relatórios, ambientes e banco de dados ;  </p>
 <p align="center">Concepção de protótipo e testes de suporte, desenvolvimento de aplicações end-to-end.; </p>
-<p align="center">Criar documentação para projetos, incluindo desenho, inventário de ativos, diagramas e apresentações, além de documentação do ambiente e implementação para nossas equipes de suporte e futuras implementação. </p>
+<p align="center">Criar documentações para projetos, incluindo desenho, inventário de ativos, diagramas e apresentações, além de documentação do ambiente e implementação para nossas equipes de suporte e futuras implementação. </p>
 
 
 
