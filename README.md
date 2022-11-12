@@ -60,6 +60,7 @@
 #### ✔ Bases de datos y SQL para ciencia de datos - IBM
 #### ✔ Análisis de datos con Python - IBM
 #### ✔ Aprendizaje Automático con Python - IBM
+#### 📍 Para visualizar a lista completa acessar o Linkedin logo abaixo.
   
 </div>
 
